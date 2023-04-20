@@ -1,0 +1,19 @@
+body{
+    background-image: url("/static/images/index.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    background-color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 150px;
+    padding-top: 50px;
+    margin-left: 200px;
+    margin-right:200px;
+    margin-bottom: 350px;
+    margin-top: 150px;
+}
+legend{
+    text-align: center;
+}

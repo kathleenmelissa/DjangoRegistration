@@ -1,0 +1,8 @@
+h1{
+    color: blue;
+}
+body{
+    background-image: url("/static/images/img2.jpeg");
+    background-repeat: no-repeat;
+   background-size: cover;
+}
